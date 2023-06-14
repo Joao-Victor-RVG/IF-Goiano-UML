@@ -46,3 +46,53 @@ Software Architectures. Design Patterns.
 [IF-Goiano Website](https://ifgoiano.edu.br/home/index.php)
 
 [YouTube Channel](https://www.youtube.com/user/ifgoiano)
+  
+  
+  ---
+  # :books: atividades acadêmicas / Academic Activities  UML 
+  
+  ### Caso de Uso
+  
+  ### Diagrama de Classe
+  
+  ### Diagrama de Estado
+  
+  ### Diagrama de Sequência 
+  
+  ### Diagrama de Atividade 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ * [Slide apresentação final do jogo de Xadres e sua modelagem em UML  /  Final slide presentation of the Chess game and its modeling in UML](https://docs.google.com/presentation/d/1FbSgOG7UIUUrjjKw4PtNoJwyogETm0ft/edit?usp=sharing&ouid=108879520035228419943&rtpof=true&sd=true)
+ 
+  
+  
+  
+  
