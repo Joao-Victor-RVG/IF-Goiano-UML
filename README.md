@@ -51,9 +51,7 @@ Software Architectures. Design Patterns.
   ---
   # :books: atividades acadêmicas / Academic Activities  UML 
   
-  ## Caso de Uso
-
-
+  ## Caso de Uso / Use Case
 
 
   ![Caso de Uso 01](./Caso%20de%20uso%20UML%2001.png)
@@ -62,7 +60,7 @@ Software Architectures. Design Patterns.
   ![Caso de Uso 04](./Caso%20de%20uso%20UML%2004.png)
 
   
-  ## Diagrama de Classe
+  ## Diagrama de Classe / Class Diagram
 
   ![Diagrama de Classe](./Diagrama%20de%20Classe.png)
 
@@ -72,17 +70,17 @@ Software Architectures. Design Patterns.
 
   ![Diagrama de Classe MVC](./Diagrama%20de%20Classe%20MVC.png)
   
-  ## Diagrama de Estado
+  ## Diagrama de Estado / State Diagram
 
   ![Diagrama de Estado](./Diagrama%20de%20estado%2001.png)
   ![Diagrama de Estado](./Diagrama%20de%20estado%2002.png)
   
-  ## Diagrama de Sequência 
+  ## Diagrama de Sequência / Sequence Diagram
 
   ![Diagrama de Seuqencia](./Diagrama%20de%20sequencia.png)
 
   
-  ## Diagrama de Atividade 
+  ## Diagrama de Atividade / Activity Diagram
 
   ![Diagrama de Atividade](./Diagrama%20de%20Atividade.png)
 
