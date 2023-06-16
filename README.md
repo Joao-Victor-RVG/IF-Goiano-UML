@@ -56,30 +56,30 @@ Software Architectures. Design Patterns.
 
 
 
-  ![Caso de Uso 01](./Caso de uso UML 01.png)
-  ![Caso de Uso 02](./Caso de uso UML 02.png)
-  ![Caso de Uso 03](./Caso de uso UML 03.png)
-  ![Caso de Uso 04](./Caso de uso UML 04.png)
+  ![Caso de Uso 01](./Caso%20de%20uso%20UML%2001.png)
+  ![Caso de Uso 02](./Caso%20de%20uso%20uml%2002.png)
+  ![Caso de Uso 03](./Caso%20de%20uso%20UML%2003.png)
+  ![Caso de Uso 04](./Caso%20de%20uso%20UML%2004.png)
 
   
   ## Diagrama de Classe
 
-  ![Diagrama de Classe](./Diagrama de Classe.png)
+  ![Diagrama de Classe](./Diagrama%20de%20Classe.png)
 
 
   * Diagrama de Classe no padrão MVC / Class Diagram in the MVC Pattern
 
 
-  ![Diagrama de Classe MVC](./Diagrama de Classe MVC.png)
+  ![Diagrama de Classe MVC](./Diagrama%20de%20Classe%20MVC.png)
   
   ## Diagrama de Estado
 
-  ![Diagrama de Estado](./Diagrama de Estado 01.png)
-  ![Diagrama de Estado](./Diagrama de Estado 02.png)
+  ![Diagrama de Estado](./Diagrama%20de%20estado%2001.png)
+  ![Diagrama de Estado](./Diagrama%20de%20estado%2002.png)
   
   ## Diagrama de Sequência 
 
-  ![Diagrama de Seuqencia](./Diagrama de sequencia.png)
+  ![Diagrama de Seuqencia](./Diagrama%20de%20sequencia.png)
 
   
   ## Diagrama de Atividade 
