@@ -51,7 +51,7 @@ Software Architectures. Design Patterns.
   ---
   # :books: atividades acadêmicas / Academic Activities  UML 
   
-  ### Caso de Uso
+  ## Caso de Uso
 
 
 
@@ -62,54 +62,33 @@ Software Architectures. Design Patterns.
   ![Caso de Uso 04](./Caso de uso UML 04.png)
 
   
-  ### Diagrama de Classe
+  ## Diagrama de Classe
 
-![Diagrama de Classe](./Diagrama de Classe.png)
+  ![Diagrama de Classe](./Diagrama de Classe.png)
 
 
   * Diagrama de Classe no padrão MVC / Class Diagram in the MVC Pattern
 
 
-![Diagrama de Classe MVC](./Diagrama de Classe MVC.png)
+  ![Diagrama de Classe MVC](./Diagrama de Classe MVC.png)
   
-  ### Diagrama de Estado
+  ## Diagrama de Estado
+
+  ![Diagrama de Estado](./Diagrama de Estado 01.png)
+  ![Diagrama de Estado](./Diagrama de Estado 02.png)
   
-  ### Diagrama de Sequência 
+  ## Diagrama de Sequência 
+
+  ![Diagrama de Seuqencia](./Diagrama de sequencia.png)
+
   
-  ### Diagrama de Atividade 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  ## Diagrama de Atividade 
+
+  ![Diagrama de Atividade](./Diagrama%20de%20Atividade.png)
+
+
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  # Trabalho avaliativo da disciplina / Evaluative assignment for the course
   
  * [Slide apresentação final do jogo de Xadres e sua modelagem em UML  /  Final slide presentation of the Chess game and its modeling in UML](https://docs.google.com/presentation/d/1FbSgOG7UIUUrjjKw4PtNoJwyogETm0ft/edit?usp=sharing&ouid=108879520035228419943&rtpof=true&sd=true)
- 
-  
-  
-  
-  
